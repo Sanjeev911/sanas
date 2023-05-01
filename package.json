@@ -1,0 +1,17 @@
+{
+  "name": "sanas",
+  "version": "1.0.0",
+  "description": "Sample Assignment Consisting of few APIs to handle priority Queue logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sanjeev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "js-sdsl": "^4.4.0",
+    "uuid": "^9.0.0"
+  }
+}

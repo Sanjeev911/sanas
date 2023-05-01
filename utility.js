@@ -1,0 +1,10 @@
+const JOB_STATUS = {
+    CREATED: 'CREATED',
+    PROCESSING: 'PROCESSING',
+    COMPLETED: 'COMPLETED',
+    FAILED: 'FAILED'
+}
+
+module.exports = {
+    JOB_STATUS
+}
